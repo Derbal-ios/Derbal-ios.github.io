@@ -6,13 +6,13 @@ Maintainer: Sn3pi
 Installed-Size: 108
 Depends: mobilesubstrate
 Filename: ./debs/com.sn3pi.videostar_1.0-4+debug_iphoneos-arm.deb
-Size: 9916
-MD5sum: 02b26e1a7dc058c98cbc52458d5f275f
-SHA1: 91f4fd66083239cab531598b232046b2ca870756
-SHA256: b0d102417b0dbff117a8f6a25646263c4dffbae8be7d437c4e9828ba9361e37e
-SHA512: 2d956b7892b966922a80e374014aa3fb0c76768d95c075727f040a136285eff4a9d98d689647477917b288b73ed516bb5d2c60da825341c6e8050bcc39dc0076
+Size: 9896
+MD5sum: 2562018ffcb4b8841b1af4b0a964e15f
+SHA1: f32ebc9e8619068f7f30de9d58815b249dde9a84
+SHA256: dcaa0ca47e3c49631052565af89685333e057fb8120ab1e27c0bd2ed75303ec6
+SHA512: 55673b682aaeb0189f20c0249f745a715d9c7b4e61ccf5f91e9a11463e3ae63efb38aa61e5a8695f4bb58fcaec04b722a6389b0c499b0e65cc3cfb813467460b
 Description: فتح كل مميزات فيديو ستار!
 Name: VideoStar Pro
 Author: Sn3pi
-Icon: https://l.top4top.io/p_2311nsqpb0.jpeg
+Icon: .../icon/hacked.png
 
