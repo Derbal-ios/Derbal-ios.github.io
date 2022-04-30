@@ -6,13 +6,13 @@ Maintainer: Derbal
 Installed-Size: 108
 Depends: mobilesubstrate
 Filename: ./debs/com.sn3pi.videostar_1.0-4+debug_iphoneos-arm.deb
-Size: 9888
-MD5sum: 97b2099824610061b07ee9d2a6e1ed12
-SHA1: 96877467bc67f102d202d80a781136c8e3ea89d7
-SHA256: ec46f1bcca897b054daa29bfc8f76806910b6e0b741dae073942a5fabcf02a67
-SHA512: 952778a63c5013973c80517cc9074e8cb423c17551843e344a6a293018109f82abe25e6ec4c06103d623593da00b12f416403df3ae383b71a56132406e8424c0
+Size: 9884
+MD5sum: 1041d0be9ae83b53a4896ca8421ac7ab
+SHA1: e329178f77a074582094f9903c2fb626ce7e70ad
+SHA256: 58ae36dd6cf459de1fe39f098515d47335cf96a4bafe8fe44bd46f1f3124f8d8
+SHA512: 6ec0a44849e9e7b66e68dec4760a12b035a22e40d04988468b65c55737b51f416c41b5de654456afe93b69aa6edac78a574511e23789a87ca8fc4edb806ca588
 Description: فتح كل مميزات فيديو ستار!
 Name: VideoStar Pro
 Author: Derbal
-Icon: ../icon/hacked.png
+Icon: /icon/hacked.png
 
