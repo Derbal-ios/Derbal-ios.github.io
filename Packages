@@ -3,36 +3,35 @@ Architecture: iphoneos-arm
 Version: 5.3
 Essential: yes
 Section: System
-Maintainer: Hoàng Tuân <contact.tuandb@gmail.com>
+Maintainer: Derbal<gmail@gmail.com>
 Installed-Size: 30
-Replaces: com.hoangtuantk.github.io.icon, com.hoangtuan.iconrepo
 Filename: ./debs/com.derbal.icon_5.3_iphoneos-arm.deb
-Size: 25990
-MD5sum: 5a28a323d198cc99da433b1957554a86
-SHA1: 48417c37fdd2a26f80745135297adf9f6dd4c628
-SHA256: 264ef8f3614082dad95ca446abaf6781e1ce4d2a341d7cc0fe30c89a7f071464
-SHA512: 1461299459a26ead8c4b49351bbed5b4c14a73e8a3c136dab3cd0554e99a31e88046b406406bdac60a0c19d6bf1427a8b96ba0410850b81a44afc5d2de771674
+Size: 25938
+MD5sum: 5a4abde7e89a80496f9379e4edc7eaf7
+SHA1: 144b36140a42e0b27cde54c6c5c9ef83981c3e64
+SHA256: cab583fd68a0c194ef46748000b9c1c6b749c882331735eef918e4b79d5a76c6
+SHA512: a2f106d94f93f363abde4fdf3ac709683542bf401cb7742dc629589dc8e4593abd310bf0982e0778207dd7c7ba2f055058e62c9705492526d8bebceb6cd555ca
 Homepage: https://repo.tuandb.name.vn
 Description: ايقونات السورس
 Name: IconRepo | Derbal
 Icon: file:///Library/derbal.iconrepo/hacked.png
 Depiction: ايقونات للسورس
-Author: Hoàng Tuân <contact.tuandb@gmail.com>
-Support: Hoàng Tuân <contact.tuandb@gmail.com>
+Author: Derbal<gmail@gmail.com>
+Support: Derbal<gmail@gmail.com>
 
 Package: com.sn3pi.videostar
 Architecture: iphoneos-arm
 Version: 1.0-4+debug
-Section: Hack (Games)
+Section: Apps
 Maintainer: Derbal
 Installed-Size: 108
 Depends: mobilesubstrate
 Filename: ./debs/com.sn3pi.videostar_1.0-4+debug_iphoneos-arm.deb
-Size: 9908
-MD5sum: 24c24a168ba7f0a05e6e3133188bfccb
-SHA1: 019b7a1aadc9194c9590d648d504c815d6f56861
-SHA256: 3ea1130ca9deb1de7aa7652a3df0cb147c3d16c6e177df24a83e6b7f6dfe54f9
-SHA512: b54e75f0570e560ac678709e11a10658ca4bc0fd17e4109195558618881d8e34ca803c926faa4a00ad07dd78a3a13706b909690175be5e89c223e9bdd512dd55
+Size: 9902
+MD5sum: 23f38b9d5fd9db0f93d4b80892a1a031
+SHA1: 6efd42b16fd7bcec5f1c7e5aa8844fdc71952379
+SHA256: 7fc52c39f1c1d3e145db24ba4a3c3a7343e3ccd984bd4bb29085c2e3d9a64a61
+SHA512: ea602a560a225fd18a726a86039dd23f16b59ed2de0df593615c2d67e784b78109c4fcbcdf4fcc065acf0d2d4cc6ed43ee5137bfe92cf66ce1d2690c472d1511
 Description: فتح كل مميزات فيديو ستار!
 Name: VideoStar Pro
 Author: Derbal
