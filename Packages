@@ -2,17 +2,17 @@ Package: com.sn3pi.videostar
 Architecture: iphoneos-arm
 Version: 1.0-4+debug
 Section: Hack (Games)
-Maintainer: Sn3pi
+Maintainer: Derbal
 Installed-Size: 108
 Depends: mobilesubstrate
 Filename: ./debs/com.sn3pi.videostar_1.0-4+debug_iphoneos-arm.deb
-Size: 9896
-MD5sum: 2562018ffcb4b8841b1af4b0a964e15f
-SHA1: f32ebc9e8619068f7f30de9d58815b249dde9a84
-SHA256: dcaa0ca47e3c49631052565af89685333e057fb8120ab1e27c0bd2ed75303ec6
-SHA512: 55673b682aaeb0189f20c0249f745a715d9c7b4e61ccf5f91e9a11463e3ae63efb38aa61e5a8695f4bb58fcaec04b722a6389b0c499b0e65cc3cfb813467460b
+Size: 9924
+MD5sum: 340c71806169571c3f50303baf64444c
+SHA1: 2d90acb46c097bee737a7e13514d5efb306f3b2a
+SHA256: f5e654df95871514abe550f05fed4e824b29bf43caa56e332ab5d815e1777bad
+SHA512: 695c316c71352fde224b1fb365ab6da49c57666eeb7fdb2a634c8d611538cbe7932b867ca3e7ebc69654de3b012239f63f2cdc17b05110a5effcde0438e47146
 Description: فتح كل مميزات فيديو ستار!
 Name: VideoStar Pro
-Author: Sn3pi
-Icon: .../icon/hacked.png
+Author: Derbal
+Icon: https://mrkzgulfup.com/uploads/165135457441261.png
 
