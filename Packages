@@ -1,3 +1,25 @@
+Package: com.derbal.icon
+Architecture: iphoneos-arm
+Version: 5.3
+Essential: yes
+Section: System
+Maintainer: Hoàng Tuân <contact.tuandb@gmail.com>
+Installed-Size: 30
+Replaces: com.hoangtuantk.github.io.icon, com.hoangtuan.iconrepo
+Filename: ./debs/com.derbal.icon_5.3_iphoneos-arm.deb
+Size: 25990
+MD5sum: 5a28a323d198cc99da433b1957554a86
+SHA1: 48417c37fdd2a26f80745135297adf9f6dd4c628
+SHA256: 264ef8f3614082dad95ca446abaf6781e1ce4d2a341d7cc0fe30c89a7f071464
+SHA512: 1461299459a26ead8c4b49351bbed5b4c14a73e8a3c136dab3cd0554e99a31e88046b406406bdac60a0c19d6bf1427a8b96ba0410850b81a44afc5d2de771674
+Homepage: https://repo.tuandb.name.vn
+Description: ايقونات السورس
+Name: IconRepo | Derbal
+Icon: file:///Library/derbal.iconrepo/hacked.png
+Depiction: ايقونات للسورس
+Author: Hoàng Tuân <contact.tuandb@gmail.com>
+Support: Hoàng Tuân <contact.tuandb@gmail.com>
+
 Package: com.sn3pi.videostar
 Architecture: iphoneos-arm
 Version: 1.0-4+debug
@@ -6,13 +28,13 @@ Maintainer: Derbal
 Installed-Size: 108
 Depends: mobilesubstrate
 Filename: ./debs/com.sn3pi.videostar_1.0-4+debug_iphoneos-arm.deb
-Size: 9924
-MD5sum: 340c71806169571c3f50303baf64444c
-SHA1: 2d90acb46c097bee737a7e13514d5efb306f3b2a
-SHA256: f5e654df95871514abe550f05fed4e824b29bf43caa56e332ab5d815e1777bad
-SHA512: 695c316c71352fde224b1fb365ab6da49c57666eeb7fdb2a634c8d611538cbe7932b867ca3e7ebc69654de3b012239f63f2cdc17b05110a5effcde0438e47146
+Size: 9908
+MD5sum: 24c24a168ba7f0a05e6e3133188bfccb
+SHA1: 019b7a1aadc9194c9590d648d504c815d6f56861
+SHA256: 3ea1130ca9deb1de7aa7652a3df0cb147c3d16c6e177df24a83e6b7f6dfe54f9
+SHA512: b54e75f0570e560ac678709e11a10658ca4bc0fd17e4109195558618881d8e34ca803c926faa4a00ad07dd78a3a13706b909690175be5e89c223e9bdd512dd55
 Description: فتح كل مميزات فيديو ستار!
 Name: VideoStar Pro
 Author: Derbal
-Icon: https://mrkzgulfup.com/uploads/165135457441261.png
+Icon: file:///Library/derbal.iconrepo/hacked.png
 
