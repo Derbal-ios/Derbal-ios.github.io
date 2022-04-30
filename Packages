@@ -4,13 +4,13 @@ Version: 5.3
 Essential: yes
 Section: System
 Maintainer: Derbal<gmail@gmail.com>
-Installed-Size: 30
+Installed-Size: 32
 Filename: ./debs/com.derbal.icon_5.3_iphoneos-arm.deb
 Size: 25938
-MD5sum: 5a4abde7e89a80496f9379e4edc7eaf7
-SHA1: 144b36140a42e0b27cde54c6c5c9ef83981c3e64
-SHA256: cab583fd68a0c194ef46748000b9c1c6b749c882331735eef918e4b79d5a76c6
-SHA512: a2f106d94f93f363abde4fdf3ac709683542bf401cb7742dc629589dc8e4593abd310bf0982e0778207dd7c7ba2f055058e62c9705492526d8bebceb6cd555ca
+MD5sum: d07c33ac671d585cd93f4d8d4b21c7da
+SHA1: e32eb27fd110b923e04acdc43247bd71f36b1b88
+SHA256: 9b373b938a3c9406956ea3738f3f16b4ae3b9e93452419327f97a068467fcb6a
+SHA512: c44ca5a83c65db006b77bce5c6c9ee5709308f3dc4d14a36d30b7b2266fd5cf104a747587fe087a80cf103574ddba08d78e65e44065dd6c0702895fd5ed80a5e
 Homepage: https://repo.tuandb.name.vn
 Description: ايقونات السورس
 Name: IconRepo | Derbal
