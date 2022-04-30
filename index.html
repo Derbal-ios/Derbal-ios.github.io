@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+          <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.1/css/all.css'><link rel="stylesheet" href="./style.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+           <meta name="description" content="سورس سنوبي - Sn3Pi Repo "> 
+                    <meta name="keywords" content="Sn3Pi,برامج بلس,سورس سنوبي"> 
+    </head>
+    <body>
+<!-- Image and text -->
+<nav class="navbar navbar-light bg-light">
+    <a style="line-height: 55px;" class="navbar-brand" href="#">
+      <img src="https://i.ibb.co/k20fjZ1/subsource-done-button-sticker-id-12-E9-E4-A5-B43-D-4-AC6-9132-81083344-F45-B-uid-08-D5-C5-D1-C399-46.jpg" width="66px" height="66px" class="d-inline-block align-top"
+       alt="" loading="lazy">
+       <span id="title"> Coder Sn3Pi</span>
+     
+    </a>
+
+
+    <div>
+        <button type="button" id="arabic" class="btn btn-outline-success">العربية</button>
+        <button type="button" id="english" class="btn btn-outline-danger">English</button>
+
+    </div>
+  </nav>
+  <div id="welcome-text" class="alert alert-success" role="alert">
+    Welcome to  <strong>Sn3Pi</strong> Repo
+  </div>
+
+
+
+<div class="container">
+	<div class="card">
+		<div id="cydia" class="card-body">
+			<p></b>Cydia repository template.</p>
+			<a class="btn btn-sm btn-primary" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://sn3pi.github.io/repo/">Add to Cydia</a>
+      			<a class="btn btn-sm btn-primary" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://sn3pi.github.io/repo/">Add to Zebra</a>
+            			<a class="btn btn-sm btn-primary" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://sn3pi.github.io/repo/">Add to Sileo</a>
+		</div>
+	</div>
+</div>
+
+
+<style>
+
+
+
+.social-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: -10px;
+}
+.social-buttons__button {
+  margin: 10px 5px 0;
+}
+
+.social-button {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  outline: none;
+  width: 70px;
+  height: 70px;
+  text-decoration: none;
+}
+.social-button__inner {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: calc(100% - 2px);
+  height: calc(100% - 2px);
+  border-radius: 100%;
+  background: #fff;
+  text-align: center;
+}
+.social-button i,
+.social-button svg {
+  position: relative;
+  z-index: 1;
+  transition: 0.3s;
+}
+.social-button i {
+  font-size: 28px;
+}
+.social-button svg {
+  height: 40%;
+  width: 40%;
+}
+.social-button::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 50%;
+  display: block;
+  width: 0;
+  height: 0;
+  border-radius: 100%;
+  transition: 0.3s;
+}
+.social-button:focus, .social-button:hover {
+  color: #fff;
+}
+.social-button:focus::after, .social-button:hover::after {
+  width: 100%;
+  height: 100%;
+  margin-left: -50%;
+}
+.social-button--mail {
+  color: #0072c6;
+}
+.social-button--mail::after {
+  background: #0072c6;
+}
+.social-button--facebook {
+  color: #eb4034;
+}
+.social-button--facebook::after {
+  background: #eb4034;
+}
+.social-button--linkedin {
+  color: #fc2881;
+}
+.social-button--linkedin::after {
+  background: #fc2881;
+}
+.social-button--github {
+  color: #6e5494;
+}
+.social-button--github::after {
+  background: #6e5494;
+}
+.social-button--codepen {
+  color: #212121;
+}
+.social-button--codepen::after {
+  background: #212121;
+}
+.social-button--steam {
+  color: #7da10e;
+}
+.social-button--steam::after {
+  background: #7da10e;
+}
+.social-button--snapchat {
+  color: #1f7cff;
+}
+.social-button--snapchat::after {
+  background: #1f7cff;
+}
+.social-button--twitter {
+  color: #55acee;
+}
+.social-button--twitter::after {
+  background: #55acee;
+}
+.social-button--instagram {
+  color: #e4405f;
+}
+.social-button--instagram::after {
+  background: #e4405f;
+}
+.social-button--npmjs {
+  color: #c12127;
+}
+.social-button--npmjs::after {
+  background: #c12127;
+}
+
+footer{
+    
+    text-align: center;
+    
+}
+
+</style>
+
+
+
+<div class="social-buttons">
+  <a href="https://youtube.com/channel/UCSHgtawNLF_t3DxS_eLwAbA" class="social-buttons__button social-button social-button--facebook" aria-label="Facebook">
+    <span class="social-button__inner">
+     <i class="fab fa-youtube"></i>
+    </span>
+  </a>
+  <a href="https://www.instagram.com/qm040/" class="social-buttons__button social-button social-button--linkedin" aria-label="LinkedIn">
+    <span class="social-button__inner">
+     <i class="fab fa-instagram"></i>
+    </span>
+  </a>
+  <a href="https://t.me/qm040" class="social-buttons__button social-button social-button--snapchat" aria-label="SnapChat">
+    <span class="social-button__inner">
+     <i class="fab fa-telegram"></i>
+    </span>
+  </a>
+  <a href="https://github.com/Sn3pi" class="social-buttons__button social-button social-button--github" aria-label="GitHub">
+    <span class="social-button__inner">
+     <i class="fab fa-github"></i>
+    </span>
+  </a>
+
+    </span>
+  </a>
+</div>
+
+      
+<script>
+let arabic = document.getElementById("arabic");
+let english = document.getElementById("english");
+let title = document.getElementById("title");
+let welcome = document.getElementById("welcome-text");
+let about = document.getElementById("about");
+let aboutText = document.getElementById("about-text");
+let contact = document.getElementById("contact");
+
+arabic.onclick = ()=>{
+    setLanugage("arabic");
+    localStorage.setItem("Lang","arabic");
+};
+
+english.onclick = ()=>{
+    setLanugage("english");
+    localStorage.setItem("Lang","english");
+};
+
+onload = ()=>{
+    setLanugage(localStorage.getItem("Lang"));
+};
+function setLanugage(getLanuage){
+if(getLanuage === "arabic"){
+    title.innerHTML = "Coder Sn3Pi";
+    welcome.innerHTML = " <h2>عن السورس</h2><br>سورس لتجميع هاكات الالعاب والتطبيقات والادوات المدفوعة بأحدث الاصدارات</br>";
+    about.innerHTML = "حولنا";
+    aboutText.innerHTML = "انا استاذ برمجيات و مهندس برمجيات";
+    contact.innerHTML = "اتصل بنا";
+}else if(getLanuage ==="english"){
+    title.innerHTML = "Coder Sn3Pi";
+    welcome.innerHTML = "<h2>about source</h2></br>A source for hacking games, applications, and tools with the latest versions</br>";
+    about.innerHTML = "  About US";
+    aboutText.innerHTML = "  I am a teacher and a Software Developer";
+    contact.innerHTML = "Contact us";
+
+}
+
+}
+    </script>
+    
+
+    
+
+    <footer>
+    <p>copyright <i class="fas fa-copyright"></i>  <strong> Sn3Pi✪</strong>. all rights reserved </p>
+    
+    </footer>
+    
+    
+    
+    
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+    </body>
+</html>

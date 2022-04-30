@@ -1,0 +1,18 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	precomposeunicode = true
+[credential "https://github.com"]
+ username = Derbal-iOS
+[credential "https://Derbal-ios@github.com"]
+ Password = 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
+[credential]
+ helper = store
+[remote "origin"]
+	url = https://github.com/derbal-ios/derbal-ios.github.io.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master

@@ -1,0 +1,112 @@
+Package: com.derbal.textnow
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: Derbal
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.derbal.textnow_0.0.1-1+debug_iphoneos-arm.deb
+Size: 5720
+MD5sum: 4f85dc6a2ed230d277ad64330d566a44
+SHA1: 3163ee1af2355b749eb66b16ac16f6d0220d856b
+SHA256: 9e7c16b01c437d7e25b14229892986c820fce6129ee2db7ee0f566af5bfbbef5
+SHA512: 87d5036de873d9d8af1f55d56c9390da94102fd077b01829c8e8cd21abe25fa7f29b6e4e5e292146fc35e05de6d2d5e07a3d40cf420adf80557a18ff63523e5a
+Description: An awesome MobileSubstrate tweak!
+Name: repi
+Author: Derbal
+
+Package: com.opa334.choicy
+Architecture: iphoneos-arm
+Version: 1.4.1-1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1126
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debs/com.opa334.choicy_1.4.1-1_iphoneos-arm.deb
+Size: 156330
+MD5sum: 8189101ebbf31385120f6a602253c34a
+SHA1: a57371d4cb9cf128ccece9bcfc326844c051d04c
+SHA256: 95813a506ebd2fc06109209763dd1a8c63d5cee96eb249b4a9068b01c2b68f70
+SHA512: 12f3c7858a07f7740f1f082787e3d851d649eb79d10576a6af06d0b6989bbbdea5e9cc3169a97db3e4d30ae9420a6513a51bf04c3500ff4c0911e4eb49616fc8
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Description: Advanced Tweak Configuration!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Name: Choicy
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
+
+Package: com.sn3pi.videostar
+Architecture: iphoneos-arm
+Version: 1.0-4+debug
+Section: Hack (Games)
+Maintainer: Sn3pi
+Installed-Size: 108
+Depends: mobilesubstrate
+Filename: ./debs/com.sn3pi.videostar_1.0-4+debug_iphoneos-arm.deb
+Size: 9910
+MD5sum: c159f6d10089140b25aa482fe3b7d36c
+SHA1: 53d8a6ec574fece30114b6626beba97c779337ef
+SHA256: 6e683e4ed1d2bd252e175b6a2d1bf591d6262ad5533bbd076fbbac16217897e2
+SHA512: 73586caaa773deed3d8b852d0bab2d077bb7a8b4d0b3cc45ce1af83cece88a95e5feebe7b7647bb28488881e68772cac3f0c34d8449097ccf085e7ab23360203
+Description: فتح كل مميزات فيديو ستار!
+Name: VideoStar Pro
+Author: Sn3pi
+Icon: file:///applications/Cydia.app/Sections/Games.png
+
+Package: com.twickd.td.bundleidsxi
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Utilities
+Maintainer: TD <tdhadvocate@gmail.com>
+Depends: mobilesubstrate, firmware (>=13.0)
+Filename: ./debs/com.twickd.td.bundleidsxi_2.0_iphoneos-arm.deb
+Size: 69046
+MD5sum: fb798e3ab81911005de2b01cbde5feab
+SHA1: 2c0e8300c912032c5920396bddd0210012a042f1
+SHA256: d11650a2a0bdac7965e6b951cd9719dbe37eb06b352cdfe38f6adaf550d8ff4a
+SHA512: 6e9bebc5c7019dcc235fe1f7bb746ffe167520824dc22b026412f313895382729c47d47c1410c1b1cca8eeb4ab0df5bc9a87e5b553de71550cec7c8fc764c290
+Description: App to see installed app bundle IDs.
+Name: BundleIDsXI
+Author: TD <tdhadvocate@gmail.com>
+
+Package: derbal.iconrepo.com
+Architecture: iphoneos-arm
+Version: 5.3
+Essential: yes
+Section: System
+Installed-Size: 26
+Filename: ./debs/icon.deb
+Size: 26220
+MD5sum: 541c2fb264d1f050e473ddbbe53d7aba
+SHA1: 8dcf2f87223992d92412cd786fc9fedb70b01f32
+SHA256: 0c7fd096f45f5e7f46c5929fd3316bf9fda80813cd4ef8c046d4069e8116b8ae
+SHA512: 2947e96d9ac6b35b6d1e07ca3b16944becf75a12e13c7ce2114ae2c47cb8524e560c957d0fcd7d28b5100f3cf9dec406f3a4112a081f33c4e8899cc17e028a3d
+Homepage: https://repo.tuandb.name.vn
+Description: لتحميل ايقونات السورس
+Name: IconRepo | Derbal
+Icon: file:///Library/derbal.iconRepo/apps.png
+Depiction: لتحميل ايقونات السورس
+Author: Hoàng Tuân <contact.tuandb@gmail.com>
+
+Package: com.derbal.inshotpatch
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Application
+Maintainer: Derbal <i.de4bal@gmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/inshot_hack.deb
+Size: 3704
+MD5sum: 5147c22d5805f66f5948aa1514af5961
+SHA1: c93e29ee451a81d902d2a279d54513ff48f6ea0a
+SHA256: a09711aa527a3327e413788e620114186e1b2397b50aa3c555a7b81bd4f51351
+SHA512: 1837cb269137b86534316974aa44d235eb1d8d48b67e1d981719e8477b7fcb821eff3431c87cde066ae4bd67470b5d5fd16bfa5cf706e20178c4d97cde28cf25
+Description: فتح الاشتراك
+Name: InShot Hack
+Author: Derbal <i.de4bal@gmail.com>
+Icon: file:///Library/derbal.iconRepo/apps.png
+depiction: https://repo.dpkghub.com/depiction/web/repo.dpkghub.pubg17.html
+
