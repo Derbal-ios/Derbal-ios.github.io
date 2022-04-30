@@ -6,13 +6,13 @@ Maintainer: Sn3pi
 Installed-Size: 108
 Depends: mobilesubstrate
 Filename: ./debs/com.sn3pi.videostar_1.0-4+debug_iphoneos-arm.deb
-Size: 9910
-MD5sum: c159f6d10089140b25aa482fe3b7d36c
-SHA1: 53d8a6ec574fece30114b6626beba97c779337ef
-SHA256: 6e683e4ed1d2bd252e175b6a2d1bf591d6262ad5533bbd076fbbac16217897e2
-SHA512: 73586caaa773deed3d8b852d0bab2d077bb7a8b4d0b3cc45ce1af83cece88a95e5feebe7b7647bb28488881e68772cac3f0c34d8449097ccf085e7ab23360203
+Size: 9916
+MD5sum: 02b26e1a7dc058c98cbc52458d5f275f
+SHA1: 91f4fd66083239cab531598b232046b2ca870756
+SHA256: b0d102417b0dbff117a8f6a25646263c4dffbae8be7d437c4e9828ba9361e37e
+SHA512: 2d956b7892b966922a80e374014aa3fb0c76768d95c075727f040a136285eff4a9d98d689647477917b288b73ed516bb5d2c60da825341c6e8050bcc39dc0076
 Description: فتح كل مميزات فيديو ستار!
 Name: VideoStar Pro
 Author: Sn3pi
-Icon: file:///applications/Cydia.app/Sections/Games.png
+Icon: https://l.top4top.io/p_2311nsqpb0.jpeg
 
