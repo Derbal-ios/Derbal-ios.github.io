@@ -1,0 +1,11 @@
+Package: com.sn3pi.videostar
+Name: VideoStar Pro
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: فتح كل مميزات فيديو ستار!
+Maintainer: Derbal
+Author: Derbal
+Section: Tweaks
+Version: 1.0-4+debug
+Installed-Size: 108
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.derbal.videostar

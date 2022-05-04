@@ -1,0 +1,11 @@
+Package: com.derbal.picsart
+Name: PicsArt Hack
+Author: Derbal <i.de4bal@gmail.com>
+Description: PicsArt Open subscription
+Depends: mobilesubstrate
+Maintainer: Derbal <i.de4bal@gmail.com>
+Architecture: iphoneos-arm
+Depiction: https://derbal-ios.github.io/Derbal-ios.github.io/depictions/?p=com.derbal.picsart
+Section: Tweaks
+Version: 1.0
+Installed-Size: 104
