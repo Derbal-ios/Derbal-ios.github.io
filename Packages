@@ -16,3 +16,21 @@ Name: VideoStar Pro
 Author: Derbal
 Icon: /icon/hacked.png
 
+Package: com.derbal.picsart
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Derbal <i.de4bal@gmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/picsart.deb
+Size: 4666
+MD5sum: 0a8631174282e459f526a17b9a0f0a6a
+SHA1: 456aac08c2cd6041d1469077997f0b7081f10da3
+SHA256: 084df17cd275489c49f2477a356df475d7f7302ff6ccfaf9222e5cf99542699e
+SHA512: edeb663d1cbf9a2616526500d8bc79802fd04e58c00cd400bd7e70d32b5475a285e54799c7ad33dc3d6e17f85c274dc39738c430c91d730e111f9a2f4019174d
+Description: PicsArt Open subscription
+Name: PicsArt Hack
+Author: Derbal <i.de4bal@gmail.com>
+Depiction: /index.html
+
