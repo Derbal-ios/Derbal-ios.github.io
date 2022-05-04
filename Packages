@@ -1,0 +1,18 @@
+Package: com.derbal.picsart
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Derbal <i.de4bal@gmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.derbal.picsart_1.0_iphoneos-arm (1).deb
+Size: 4698
+MD5sum: b9f8c91978bd203539813002d2c81b7b
+SHA1: ea25f1831d9954dbb606bd1df61d0c273985c91e
+SHA256: 8f63e249ae788a6586e4272e8796c7e766e4f185c8031ac79ff819c1a737609c
+SHA512: 064bf38f6266dfee0ed6de4a93f467279f73f2021e1072543dff7c8e4be935a59164a0330ef015b32b075292f7b2a1ec105728ef2e3bcff9ac24863b3dc2782e
+Description: PicsArt Open subscription
+Name: PicsArt Hack
+Author: Derbal <i.de4bal@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.derbal.picsart
+
