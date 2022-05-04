@@ -6,13 +6,13 @@ Maintainer: Derbal <i.de4bal@gmail.com>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.derbal.picsart_1.0_iphoneos-arm.deb
-Size: 4658
-MD5sum: 77adcd83c68c410bee124a6fed2cf539
-SHA1: 697b0295c62705f3b2275d3baf5736e99b1ed232
-SHA256: a5335fdb49aa7eb5c1f757e7de0b1ed9267fb74e9edba14ea42caa81f6984a76
-SHA512: 4ef4fe1255a7586edf0132e13e174123f8b0b9909b3693525685cbac61f84cb0abf98740bd70f1ad1e1d9a0b0493f9220a7bffaa5556169c9a0577d5c186d59d
+Size: 4654
+MD5sum: 71050df37e15121d0e7eade5afebfa78
+SHA1: 4182361a2e3feffd1a1be7acc32fea5e23edab36
+SHA256: 2b1772b046713eba26515be6f93d2001ac328e23d8d04c921be99a4cc99e998d
+SHA512: 30ec8a12c0220e9f3727affaa96bbf5a4b28321141ee76ec1abf622570e9b14f170654cdf2a588f5fa50db028946b8779bff9e8f7458adc2308812f384ba2539
 Description: PicsArt Open subscription
 Name: PicsArt Hack
 Author: Derbal <i.de4bal@gmail.com>
-Depiction: https://derbal-ios.github.io/Derbal-ios.github.io/descriptions/piscart.html
+Depiction: https://derbal-ios.github.io/depictions/picsart.html
 
