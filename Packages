@@ -1,3 +1,21 @@
+Package: com.derbal.lightleappatch
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Derbal <i.de4bal@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.derbal.lightleappatch_0.1.1_iphoneos-arm.deb
+Size: 9938
+MD5sum: 6ecc016382a3df28bc03fbdfb10e67f1
+SHA1: d598911e5e12001575a66e8dac15b88e68cd506a
+SHA256: 7ab373e4dce157d117aeb3c20f9d665c59da6b426a83384c519474b05d20157c
+SHA512: a0f87c83546d80d3a53718a4c0a7fcbc5b8132bd07ec8646f8048b3650d5f95b444017f0725ab05682ac5f438c0dddc8683c415ca3bc92ab26c3e63f0bcd8867
+Description: Lightleap Hack
+Name: Lightleap Patch
+Author: Derbal <i.de4bal@gmail.com>
+Depiction: https://derbal-ios.github.io/depictions/Lightleap.html
+
 Package: com.derbal.picsart
 Architecture: iphoneos-arm
 Version: 1.0
@@ -6,11 +24,11 @@ Maintainer: Derbal <i.de4bal@gmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/com.derbal.picsart_1.0_iphoneos-arm.deb
-Size: 5144
-MD5sum: 5aa2d077e9587d989d1744024029b377
-SHA1: da0f076ed34479ff17d60b17065b4f937c094b5a
-SHA256: 64d78e3ac8a08530dbd96e209835d2922d030cc130dcd34b64cb46416accf614
-SHA512: 8d59ba580cdc626b09cf3db5465222c22ba8e74c178a35be0e0d9e300ed95022893a01e148c92d90bd7e5523263db22833453d8084cfead55304a4e974601a5a
+Size: 5168
+MD5sum: 98aee57514dac2911e5236eb50a60a99
+SHA1: 27bee5e83484ef2811ead4481a0a162aa33a6995
+SHA256: 396b47cd105c1075b175b5a9e1f92c7a38c840ee89217092d865d03d9200b614
+SHA512: 3eb74822c3dbde762de92312d1ce13894ffeba2c1bff67963e90c184c03030567f19a746f158945fd0f591a2f1fce1ef7110551096f23a44f9429e9b9be944e3
 Description: PicsArt Open subscription
 Name: PicsArt Hack
 Author: Derbal <i.de4bal@gmail.com>
