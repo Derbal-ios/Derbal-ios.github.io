@@ -19,16 +19,16 @@ Depiction: https://derbal-ios.github.io/depictions/Lightleap.html
 Package: com.derbal.perfectvideolite
 Architecture: iphoneos-arm
 Version: 0.1.1
-Section: Tweaks
+Section: Apps
 Maintainer: Derbal <i.de4bal@gmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/com.derbal.perfectvideolite_0.1.1_iphoneos-arm.deb
-Size: 8244
-MD5sum: b0d745da10db28fd21f0ebf3f4661cc7
-SHA1: 3b96f2a59519e7a51f368ba1e808424ad5fb85dc
-SHA256: 5befdffdbd852dfbd2e0c001f0d46c0ea19c8820c775313c6ad6e9c1b095200e
-SHA512: 489ff0e3e9e39d75506ba206e60ef96098449d9ab57bc36dcb105a35ffc2c55cb6ae640cdd541b30490612348efde9da735263586bcf8bf3a3cc62a669d02755
+Size: 8240
+MD5sum: b21e7e82a5b648ae097f1a6601b0b913
+SHA1: c2a0e19f521f7a49705c9b125cd5fac7d5664b59
+SHA256: 53142ef3ad097739ad7e76d8a5a27fd0653f24e395c2cdc7c23c79b136f1d740
+SHA512: 3a93a87a65ac6e375af2895e1b7a5fcc4728f366628050e73249375a852cecea8d06b4511ea33410381dfdb6c9a9cd4544ffbc7e2dde69c3110eb3d18f0b7b3f
 Description: PerfectVideoLite Hack
 Name: PerfectVideoLite
 Author: Derbal <i.de4bal@gmail.com>
