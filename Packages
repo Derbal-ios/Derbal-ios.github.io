@@ -3,18 +3,18 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
 Maintainer: Derbal <i.de4bal@gmail.com>
-Installed-Size: 104
+Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/com.derbal.picsart_1.0_iphoneos-arm.deb
-Size: 4654
-MD5sum: 71050df37e15121d0e7eade5afebfa78
-SHA1: 4182361a2e3feffd1a1be7acc32fea5e23edab36
-SHA256: 2b1772b046713eba26515be6f93d2001ac328e23d8d04c921be99a4cc99e998d
-SHA512: 30ec8a12c0220e9f3727affaa96bbf5a4b28321141ee76ec1abf622570e9b14f170654cdf2a588f5fa50db028946b8779bff9e8f7458adc2308812f384ba2539
+Size: 5144
+MD5sum: 5aa2d077e9587d989d1744024029b377
+SHA1: da0f076ed34479ff17d60b17065b4f937c094b5a
+SHA256: 64d78e3ac8a08530dbd96e209835d2922d030cc130dcd34b64cb46416accf614
+SHA512: 8d59ba580cdc626b09cf3db5465222c22ba8e74c178a35be0e0d9e300ed95022893a01e148c92d90bd7e5523263db22833453d8084cfead55304a4e974601a5a
 Description: PicsArt Open subscription
 Name: PicsArt Hack
 Author: Derbal <i.de4bal@gmail.com>
-Depiction: https://derbal-ios.github.io/depictions/picsart.html
+Depiction: /index.html
 
 Package: com.sn3pi.videostar
 Architecture: iphoneos-arm
