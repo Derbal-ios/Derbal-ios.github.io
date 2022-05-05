@@ -1,16 +1,16 @@
 Package: com.derbal.icon
 Architecture: iphoneos-arm
 Version: 1.0-1
-Section: system
+Section: System
 Depends: mobilesubstrate
 Filename: ./debs/com.derbal.icon_1.0-1_iphoneos-arm.deb
-Size: 8326
-MD5sum: e63f6944de9a1ccfd93f1bb7f943d7f6
-SHA1: 6f67d676b7dd1b01c836ca687b9ae9bf09b28292
-SHA256: e8695a17ae293965f6fb2b3728e24f741cdaef4d76612a06f73ebf8a49a6d183
-SHA512: 00a184f7e07702d70bbe301e8910873f822315a3766ff86bf5ba5ffbef67672601d7a90bc008724285acab02f72152669294347d8e151b75ecd6d81542cca0a2
+Size: 8330
+MD5sum: ac8db0bd38b56ae2ded3f40424714677
+SHA1: 6e8d8997685995487c7f29fa392a4d260206b1ae
+SHA256: cc4e182753de8ea0c520af3d26cd03762b0f46c03f82582e04c110343bd96411
+SHA512: a706d812988e1213b19a19519ccb8fd524d4db37025256b6a348e6942a1e3b6b0768e2be6d7265622316f81e865e510d5f0fc70b5882ff8b166825d6bb13ab77
 Description: icon of tweaks
-Name: Repo icon
+Name: Derbal icon
 Author: Derbal <gmail@gmail.com>
 
 Package: com.derbal.lightleappatch
@@ -39,16 +39,16 @@ Maintainer: Derbal <i.de4bal@gmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/com.derbal.perfectvideolite_0.1.1_iphoneos-arm.deb
-Size: 8240
-MD5sum: b21e7e82a5b648ae097f1a6601b0b913
-SHA1: c2a0e19f521f7a49705c9b125cd5fac7d5664b59
-SHA256: 53142ef3ad097739ad7e76d8a5a27fd0653f24e395c2cdc7c23c79b136f1d740
-SHA512: 3a93a87a65ac6e375af2895e1b7a5fcc4728f366628050e73249375a852cecea8d06b4511ea33410381dfdb6c9a9cd4544ffbc7e2dde69c3110eb3d18f0b7b3f
+Size: 8228
+MD5sum: fbc69dcb0df3b14545b4c3c191911a94
+SHA1: 16cba634522393074f8703be1f8c7d10d6b0c388
+SHA256: db7db2d9dc52966fa6cf561688cb6edb5ef62f2acbcbfc048c6d0d986953b4ca
+SHA512: cc434a88a995556460e632194c8303cd339d6ceb7b13ab67424a56c31a51d411c74314cb0ab4a88c196511c0985fb89b4634be7d863749a2f4365361cc9ee6e9
 Description: PerfectVideoLite Hack
 Name: PerfectVideoLite
 Author: Derbal <i.de4bal@gmail.com>
 Depiction: https://derbal-ios.github.io/depictions/perfect.html
-Icon: https://img.icons8.com/color/452/apple-app-store--v3.png
+Icon: file:///Library/derbalicon/perfectvideo.png
 
 Package: com.derbal.picsart
 Architecture: iphoneos-arm
