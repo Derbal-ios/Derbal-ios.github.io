@@ -4,11 +4,11 @@ Version: 1.0-1
 Section: System
 Depends: mobilesubstrate
 Filename: ./debs/com.derbal.icon_1.0-1_iphoneos-arm.deb
-Size: 8330
-MD5sum: ac8db0bd38b56ae2ded3f40424714677
-SHA1: 6e8d8997685995487c7f29fa392a4d260206b1ae
-SHA256: cc4e182753de8ea0c520af3d26cd03762b0f46c03f82582e04c110343bd96411
-SHA512: a706d812988e1213b19a19519ccb8fd524d4db37025256b6a348e6942a1e3b6b0768e2be6d7265622316f81e865e510d5f0fc70b5882ff8b166825d6bb13ab77
+Size: 13208
+MD5sum: 4ae33b10689749a5c9fb33ef0471eb75
+SHA1: a5bbb4853bd69096baff700d15807832a230fc5f
+SHA256: eec59a72ec34b28e767e03442d95870e2d3108d4974a11988e988b2b229c2c4e
+SHA512: 6187718c04e1569f63b4ed2a8ec24dc05ff860253fb9364df58640b2cc0c7581b13752803b706a5eb7bd767a6c67e26c6a54116430d4c9cd35c9baac236adcfe
 Description: icon of tweaks
 Name: Derbal icon
 Author: Derbal <gmail@gmail.com>
@@ -21,34 +21,35 @@ Maintainer: Derbal <i.de4bal@gmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/com.derbal.lightleappatch_0.1.1_iphoneos-arm.deb
-Size: 9936
-MD5sum: 6bd3f8fd9c289457e63424f09e14bf55
-SHA1: 75104d56c9a622cb5b5ac9c8bf8cf2b77359e4f9
-SHA256: b8a63062b451ca23be29984051311d2f29661c5d5007cd256c447a3f38ec5523
-SHA512: a0e74d940a5997d54836760c44cb700a91b3d1836b73b8f6c791574c934dadf592576c74661876d86463af584294e2cc68339e210542645435ab073286a3c816
+Size: 9968
+MD5sum: a67f383bbac1d5f1e52b0d35ec978924
+SHA1: 9820828b4e0ad377c07edd201b4e25d7e0ef294a
+SHA256: 7cff1d21f946256bcaf5d431d6ff71dea93a1c083b91f6127f267e540ac001fe
+SHA512: a3e786439d03a1aecc9a4a0751a118a0abdfac30e05f919006ffb0a2aebf7e7b978b99b6729a9e8c7d552e9b3c1224f3ded400e0afd18a91b19d919ac0cd763a
 Description: Lightleap Hack
 Name: Lightleap Hack
 Author: Derbal <i.de4bal@gmail.com>
 Depiction: https://derbal-ios.github.io/depictions/Lightleap.html
+Icon: file:///Library/derbalicon/apps.png
 
 Package: com.derbal.perfectvideolite
 Architecture: iphoneos-arm
 Version: 0.1.1
-Section: Apps
+Section: Tweaks
 Maintainer: Derbal <i.de4bal@gmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/com.derbal.perfectvideolite_0.1.1_iphoneos-arm.deb
 Size: 8228
-MD5sum: fbc69dcb0df3b14545b4c3c191911a94
-SHA1: 16cba634522393074f8703be1f8c7d10d6b0c388
-SHA256: db7db2d9dc52966fa6cf561688cb6edb5ef62f2acbcbfc048c6d0d986953b4ca
-SHA512: cc434a88a995556460e632194c8303cd339d6ceb7b13ab67424a56c31a51d411c74314cb0ab4a88c196511c0985fb89b4634be7d863749a2f4365361cc9ee6e9
+MD5sum: b700fcc82e94cee1106fb145fc62c2a4
+SHA1: 2824ea8fed33a19f62cd09b6e939d71f51824c6a
+SHA256: bd24a133e45874ac7b9de951d456e08e6ec54caa8d9a9da1f32bdfd62b8e3c4a
+SHA512: 7517f1ef5735718a2c02edc71763ecf085ec64c122a40ac36d3d1c76f56acce91274a2053519cf6a34137c69c552df386dfb76434a3b634b452a056f033779e7
 Description: PerfectVideoLite Hack
 Name: PerfectVideoLite
 Author: Derbal <i.de4bal@gmail.com>
 Depiction: https://derbal-ios.github.io/depictions/perfect.html
-Icon: file:///Library/derbalicon/perfectvideo.png
+Icon: file:///Library/derbalicon/apps.png
 
 Package: com.derbal.picsart
 Architecture: iphoneos-arm
@@ -58,15 +59,16 @@ Maintainer: Derbal <i.de4bal@gmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/com.derbal.picsart_1.0_iphoneos-arm.deb
-Size: 9892
-MD5sum: 6b79d17e8cbc94471b8de38caabc3388
-SHA1: 8162fc729dc8ef801e61610079ed51719c6ec5e2
-SHA256: e40ac5cc975b914a86bb1f58e1f4267d98b4510ade903b6ee0adc5964324b68d
-SHA512: 4610988898a8bd273b05c225bb9656e1e6e4d3377b79f4920fd1cc0241a3912dea672284c8271db1c787a6db7c96f13498de8d016fae19d7f0aeeb8cd5cbaccc
+Size: 9922
+MD5sum: 8600510f8487566afabf1377159d4ae3
+SHA1: fb6275797407bc633aaa96978626ee3bb46c9427
+SHA256: 11a8fceb85f540de14fee474b239c7c15d4dde92ba9f1a7008fe2c8deb48a433
+SHA512: 41c245b644b0f1fd153c2ba33a442bdb0a40e363d8b10dc997815321edb7afc08785564fa3d7b5430ba57d7629584918e324fffa6cc5774e7b4c9f91af87a7c8
 Description: PicsArt Open subscription
 Name: PicsArt Hack
 Author: Derbal <i.de4bal@gmail.com>
 Depiction: https://derbal-ios.github.io/depictions/picsart.html
+Icon: file:///Library/derbalicon/apps.png
 
 Package: com.derbal.videoleappatch
 Architecture: iphoneos-arm
@@ -76,15 +78,16 @@ Maintainer: Derbal <i.de4bal@gmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/com.derbal.videoleappatch_0.1.1_iphoneos-arm.deb
-Size: 4488
-MD5sum: cf92d4a2f411fae3310e2bc6d095b701
-SHA1: 27b500679ca331507d5cac234b4af83eb92e2223
-SHA256: 526953cf2551437f457025922c0d8323a211e10d01b9ee7a56461771e131e6d5
-SHA512: a0d3b3bac5f46d16bf26c7d6d930608529a1cd757bc72a2944929aa234ab95ead6d2d8749c76f73ff571110694aeef7f99b4a4a9175d40354aff8634456470b5
+Size: 8478
+MD5sum: 0570693aefeb7c134d15b374c35952e3
+SHA1: 08b7c526a60c805fbf0ec0beea5425bcd2aca950
+SHA256: c60bd866c598400e6343cfe959e61685b8d97012c956af0db276380aef08fafc
+SHA512: d640e1acc72c45fa1d9f0021caa10fe432fedc2f8596ad63e97ab2ca13832329ae468f668694394aadebba4eb59582d53d354959a40c14f25fc9c22e08ecbab9
 Description: Videoleap Hack
 Name: Videoleap Patch
 Author: Derbal <i.de4bal@gmail.com>
 Depiction: https://derbal-ios.github.io/depictions/videoleap.html
+Icon: file:///Library/derbalicon/apps.png
 
 Package: com.sn3pi.videostar
 Architecture: iphoneos-arm
@@ -94,13 +97,14 @@ Maintainer: Derbal
 Installed-Size: 108
 Depends: mobilesubstrate
 Filename: ./debs/com.sn3pi.videostar_1.0-4+debug_iphoneos-arm.deb
-Size: 9912
-MD5sum: 7fd4ed6f232024d7a76da990d8a5a5d7
-SHA1: ffdb3dec87c3ac3cadc57ed8da124b10ce2d79cc
-SHA256: f681978292cda72ecaef7c0a2115a9bd7501ff67217125afac22ad834eea8e04
-SHA512: dd5498fc4e240c98d185ae68bc736f9ca11dfddc288aaed3ada04676a72109313f6fe90e2133fff28f38e2c1c79d707fe5b7dffc69f71fd3b62ffc924cada533
+Size: 9936
+MD5sum: 905d0272b260bd179b8247b15f690f0e
+SHA1: c1539f357ac944c3e499e941bc9812b0843e4815
+SHA256: d899388e91225ebcfa4be2a1d487cdaa8290485cd9fc1feab9f9d9f2a2b95ca4
+SHA512: 788f4da88dff3569c5854810871cca0c8b3e7506112999e03d17b182bfdef201f24de9c64a1310f37d6cb8b0f911c48d62e6339db7f9159c3e07190810dde23b
 Description: فتح كل مميزات فيديو ستار!
 Name: VideoStar Pro
 Author: Derbal
 Depiction: https://derbal-ios.github.io/depictions/videostar.html
+Icon: file:///Library/derbalicon/apps.png
 
