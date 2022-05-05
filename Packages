@@ -24,16 +24,16 @@ Maintainer: Derbal <i.de4bal@gmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/com.derbal.perfectvideolite_0.1.1_iphoneos-arm.deb
-Size: 4424
-MD5sum: d8c91f1c8c39d0584292c60cf5736122
-SHA1: d680059785785adf6a3584c98f2de22fdc4c6df7
-SHA256: 5c6ee7c8a96288e60e5482aed640fae234938443f94c1b984d8fcef2849d5717
-SHA512: 5d7ec65a3fd4ae31ea5079f6eddc725c2c5827a7d47943583629d116cf3fcb75602e43da5cdbbba606785ad30da4203f9c07ec4779951be88d9157b31d636c68
+Size: 8244
+MD5sum: b0d745da10db28fd21f0ebf3f4661cc7
+SHA1: 3b96f2a59519e7a51f368ba1e808424ad5fb85dc
+SHA256: 5befdffdbd852dfbd2e0c001f0d46c0ea19c8820c775313c6ad6e9c1b095200e
+SHA512: 489ff0e3e9e39d75506ba206e60ef96098449d9ab57bc36dcb105a35ffc2c55cb6ae640cdd541b30490612348efde9da735263586bcf8bf3a3cc62a669d02755
 Description: PerfectVideoLite Hack
 Name: PerfectVideoLite
 Author: Derbal <i.de4bal@gmail.com>
 Depiction: https://derbal-ios.github.io/depictions/perfect.html
-Icon: https://derbal-ios.github.io/icon/perfectvideo.png
+Icon: https://img.icons8.com/color/452/apple-app-store--v3.png
 
 Package: com.derbal.picsart
 Architecture: iphoneos-arm
