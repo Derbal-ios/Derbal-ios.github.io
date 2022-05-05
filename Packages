@@ -1,3 +1,18 @@
+Package: com.derbal.icon
+Architecture: iphoneos-arm
+Version: 1.0-1
+Section: system
+Depends: mobilesubstrate
+Filename: ./debs/com.derbal.icon_1.0-1_iphoneos-arm.deb
+Size: 8326
+MD5sum: e63f6944de9a1ccfd93f1bb7f943d7f6
+SHA1: 6f67d676b7dd1b01c836ca687b9ae9bf09b28292
+SHA256: e8695a17ae293965f6fb2b3728e24f741cdaef4d76612a06f73ebf8a49a6d183
+SHA512: 00a184f7e07702d70bbe301e8910873f822315a3766ff86bf5ba5ffbef67672601d7a90bc008724285acab02f72152669294347d8e151b75ecd6d81542cca0a2
+Description: icon of tweaks
+Name: Repo icon
+Author: Derbal <gmail@gmail.com>
+
 Package: com.derbal.lightleappatch
 Architecture: iphoneos-arm
 Version: 0.1.1
