@@ -6,13 +6,13 @@ Maintainer: Derbal <i.de4bal@gmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/com.derbal.lightleappatch_0.1.1_iphoneos-arm.deb
-Size: 9938
-MD5sum: 6ecc016382a3df28bc03fbdfb10e67f1
-SHA1: d598911e5e12001575a66e8dac15b88e68cd506a
-SHA256: 7ab373e4dce157d117aeb3c20f9d665c59da6b426a83384c519474b05d20157c
-SHA512: a0f87c83546d80d3a53718a4c0a7fcbc5b8132bd07ec8646f8048b3650d5f95b444017f0725ab05682ac5f438c0dddc8683c415ca3bc92ab26c3e63f0bcd8867
+Size: 9936
+MD5sum: 6bd3f8fd9c289457e63424f09e14bf55
+SHA1: 75104d56c9a622cb5b5ac9c8bf8cf2b77359e4f9
+SHA256: b8a63062b451ca23be29984051311d2f29661c5d5007cd256c447a3f38ec5523
+SHA512: a0e74d940a5997d54836760c44cb700a91b3d1836b73b8f6c791574c934dadf592576c74661876d86463af584294e2cc68339e210542645435ab073286a3c816
 Description: Lightleap Hack
-Name: Lightleap Patch
+Name: Lightleap Hack
 Author: Derbal <i.de4bal@gmail.com>
 Depiction: https://derbal-ios.github.io/depictions/Lightleap.html
 
