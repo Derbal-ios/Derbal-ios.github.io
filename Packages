@@ -34,6 +34,24 @@ Name: PicsArt Hack
 Author: Derbal <i.de4bal@gmail.com>
 Depiction: https://derbal-ios.github.io/depictions/picsart.html
 
+Package: com.derbal.videoleappatch
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Derbal <i.de4bal@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.derbal.videoleappatch_0.1.1_iphoneos-arm.deb
+Size: 4488
+MD5sum: cf92d4a2f411fae3310e2bc6d095b701
+SHA1: 27b500679ca331507d5cac234b4af83eb92e2223
+SHA256: 526953cf2551437f457025922c0d8323a211e10d01b9ee7a56461771e131e6d5
+SHA512: a0d3b3bac5f46d16bf26c7d6d930608529a1cd757bc72a2944929aa234ab95ead6d2d8749c76f73ff571110694aeef7f99b4a4a9175d40354aff8634456470b5
+Description: Videoleap Hack
+Name: Videoleap Patch
+Author: Derbal <i.de4bal@gmail.com>
+Depiction: https://derbal-ios.github.io/depictions/videoleap.html
+
 Package: com.sn3pi.videostar
 Architecture: iphoneos-arm
 Version: 1.0-4+debug
