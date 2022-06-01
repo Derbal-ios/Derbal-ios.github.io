@@ -1,19 +1,21 @@
 Package: com.derbal.airbrushpatch
 Architecture: iphoneos-arm
-Version: 0.0.1
+Version: 1.0
 Section: Tweaks
 Maintainer: Derbal <i.de4bal@gmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: ./debs/com.derbal.airbrushpatch_0.0.1_iphoneos-arm.deb
-Size: 7840
-MD5sum: ebd02433d8bfe09c49f8deee78c464df
-SHA1: 9189ee9597212d154c9d092dc69aad209efcfbc7
-SHA256: b9b06f075a6f813bc102bcb5c0f95441d5de2a40687720c04f8294157e19ab1a
-SHA512: 48ced3ca65acc9c04da0288d1465b5e7f94499b7fbfdeeffbcdcd4632247de09dfe03b7c07b497a64f882608a3dd0253099b43a6b621d2c93998b5881f706414
+Filename: ./debs/com.derbal.airbrushpatch_1.0_iphoneos-arm.deb
+Size: 15026
+MD5sum: 5c79ede1f2e16c61d86e7a7316be2ff8
+SHA1: 4cc8fd6ba6a0ecff557b3f083a8e7cedcb369e6b
+SHA256: e55006a41a6428373392a63d10bd92015313df90f7a3d1290643f188851581f5
+SHA512: 0eddeeba354cd1a8e73c60da056cca5c2cfdaf94b5c2da7fb02d5e235940b217172d9903d19bed364792e5e940fd372b75afa1e238d49acf7abe54b8671c0c35
 Description: AirBrush Open Subscription
-Name: AirBrush Patch
+Name: AirBrush Premium
 Author: Derbal <i.de4bal@gmail.com>
+Depiction: https://derbal-ios.github.io/depictions/airbrush.html
+Icon: file:///Library/derbalicon/apps.png
 
 Package: com.derbal.icon
 Architecture: iphoneos-arm
