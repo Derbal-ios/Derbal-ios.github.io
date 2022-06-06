@@ -32,6 +32,24 @@ Description: icon of tweaks
 Name: Derbal icon
 Author: Derbal <gmail@gmail.com>
 
+Package: com.derbal.koloropatch
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Derbal <i.de4bal@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate, com.derbal.icon
+Filename: ./debs/com.derbal.koloropatch_0.0.1_iphoneos-arm.deb
+Size: 7428
+MD5sum: edc143b4065e2829e6e3b4d5995c52ee
+SHA1: 67882ae5d8d3ab8db783efd23b520bd4a8a74e14
+SHA256: 920d3e0926529727ba75546e8569c1a4e56f7085714a4f44e66d9107da49fbe5
+SHA512: 8c87bd8df11d8a387041a1007c4f6ca3166e3efbfa646973747c40887d77d5a465d71bcf65909702ef347bc7b97706d001fe69de01fb3544af31d07ae95d3c8c
+Description: Koloro Hack
+Name: Koloro
+Author: Derbal <i.de4bal@gmail.com>
+Https: //derbal-ios.github.io/depictions/koloro.html
+
 Package: com.derbal.lightleappatch
 Architecture: iphoneos-arm
 Version: 0.1.1
