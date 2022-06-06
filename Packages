@@ -40,15 +40,16 @@ Maintainer: Derbal <i.de4bal@gmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate, com.derbal.icon
 Filename: ./debs/com.derbal.koloropatch_0.0.1_iphoneos-arm.deb
-Size: 7428
-MD5sum: edc143b4065e2829e6e3b4d5995c52ee
-SHA1: 67882ae5d8d3ab8db783efd23b520bd4a8a74e14
-SHA256: 920d3e0926529727ba75546e8569c1a4e56f7085714a4f44e66d9107da49fbe5
-SHA512: 8c87bd8df11d8a387041a1007c4f6ca3166e3efbfa646973747c40887d77d5a465d71bcf65909702ef347bc7b97706d001fe69de01fb3544af31d07ae95d3c8c
+Size: 14360
+MD5sum: 27fbd487829f6060c8ccdb39c82f3653
+SHA1: 86ba3e1cc1da848637c2f2af7b36371273669e6a
+SHA256: 6aab70de664d5f44375032684e252213741863338f3a86e76b9c009451d576ff
+SHA512: 54381c07268219d22b94d8f214252ed910f5e71b26766d4b558ff593fa4aba26dfebe526f730e4e863d72c0bb5ff7428f1e29d999854deb43d7d3f9be57bdd99
 Description: Koloro Hack
 Name: Koloro
 Author: Derbal <i.de4bal@gmail.com>
 Https: //derbal-ios.github.io/depictions/koloro.html
+Icon: file:///Library/derbalicon/apps.png
 
 Package: com.derbal.lightleappatch
 Architecture: iphoneos-arm
